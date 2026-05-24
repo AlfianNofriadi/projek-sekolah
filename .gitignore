@@ -1,0 +1,15 @@
+# Virtual environment Python
+tf-env/
+venv/
+.venv/
+env/
+
+# Cache Python
+__pycache__/
+*.pyc
+
+# File rahasia/config
+.env
+
+# Folder bawaan editor
+.vscode/
